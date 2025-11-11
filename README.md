@@ -1,2 +1,2 @@
 # Week-1
-Repo of work 1.
+Repo of week 1.
